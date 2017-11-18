@@ -1,0 +1,21 @@
+h1 {
+  font-family: Ubuntu, Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: 'Inconsolata', monospace;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Inconsolata', monospace;
+}
+
+a {
+  color: inherit;
+}
+
+.important {
+  font-weight: bold;
+}
